@@ -1,25 +1,18 @@
 * {
     color: white;
-    text-align: center;
-}
-
-html, body {
-    height: 100%;
-}
-
-html {
-    display: table;
-    margin: auto;
 }
 
 h1 {
-    font-family: "Libre Baskerville";
     font-size: 3rem;
     text-transform: uppercase;
 }
 
-p {
-    font-size: 1.5rem;
+div {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 100px;
+  font-family: "Libre Baskerville", serif;
+  text-align: center;
 }
 
 img {
@@ -27,7 +20,6 @@ img {
     width: 100%;
 }
 
-body {
-    display: table-cell;
-    vertical-align: middle;
+p {
+    font-size: 1.5rem;
 }
